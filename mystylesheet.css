@@ -1,4 +1,4 @@
-﻿body { margin: 0px; padding: 0px; text-align: justify; font-family: 'Simonetta', serif; font-size: 16px;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);}
+﻿body { margin: 0px; padding: 0px; text-align: justify; font-family: 'Simonetta', serif; font-size: 16px;color: rgb(0, 0, 0); background-color: rgb(255, 218, 179);}
 h1 { font-style: bold; font-size: 125%;}
 h2 { font-style: bold; font-size: 125%; text-align: center;}
 a { text-decoration: none; }
@@ -13,3 +13,7 @@ border:1px solid black;
 padding:3px;
 }
 
+div{
+float:left;
+padding: 50px;
+}
