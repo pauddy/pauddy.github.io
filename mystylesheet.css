@@ -1,6 +1,5 @@
-body { text-align: justify; font-family: 'Cabin', sans-serif; font-size: 18px;color: rgb(179, 0, 71); line-height: 1.5; background-image: url('images/lined_paper_@2X.jpg'); margin-left: 100px; 
-
-margin-right: 100px; border-style:solid; padding-left: 50px; padding-right: 50px;}
+body { text-align: justify; font-family: 'Cabin', sans-serif; font-size: 18px;color: rgb(179, 0, 71); line-height: 1.5; background-image: url('images/lined_paper_@2X.jpg'); margin-left: 50px;
+margin-right: 50px; border-style:solid; padding-left: 50px; padding-right: 50px;}
 h1 { font-style: bold; font-size: 125%;}
 h2 { font-style: bold; font-size: 125%; text-align: center;}
 a { text-decoration: none; }
