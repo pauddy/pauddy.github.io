@@ -1,10 +1,10 @@
-body { text-align: justify; font-family: 'Cabin', sans-serif; font-size: 18px;color: rgb(0, 0, 0); background-color: rgb(255, 
+body { text-align: justify; font-family: 'Cabin', sans-serif; font-size: 18px;color: rgb(179, 0, 71); line-height: 1.5; background-image: url('images/lined_paper_@2X.jpg'); margin-left: 100px; 
 
-218, 179); line-height: 1.5;}
+margin-right: 100px; border-style:solid; padding-left: 50px; padding-right: 50px;}
 h1 { font-style: bold; font-size: 125%;}
 h2 { font-style: bold; font-size: 125%; text-align: center;}
 a { text-decoration: none; }
-a:link { color: rgb(0, 0, 255); }
+a:link { color: rgb(0, 0, 128); }
 a:visited { color: rgb(0, 0, 255); }
 a:link:hover { text-decoration: underline; }
 
