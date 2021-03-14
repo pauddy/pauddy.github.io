@@ -15,7 +15,11 @@ padding:3px;
 font-size: 18px;
 font-weight: normal;
 }
-
+#t01
+{
+border-collapse: collapse;
+border: hidden;
+}
 
 div{
 float:left;
