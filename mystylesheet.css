@@ -2,6 +2,7 @@ body { text-align: left; font-family: 'Cabin', sans-serif; font-size: 18px;color
 margin-right: 50px; border-style:solid; padding-left: 50px; padding-right: 50px;}
 h1 { font-style: bold; font-size: 125%;}
 h2 { font-style: bold; font-size: 125%; text-align: center;}
+h3 { font-style: bold; font-size: 100%;}
 a { text-decoration: none; }
 a:link { color: rgb(0, 0, 128); }
 a:visited { color: rgb(0, 0, 255); }
